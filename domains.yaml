@@ -1,0 +1,67 @@
+domains:
+  - name: "DSM-5 & Psychopathology"
+    subdomains:
+      - "Neurodevelopmental Disorders"
+      - "Schizophrenia Spectrum & Other Psychotic Disorders"
+      - "Bipolar & Related Disorders"
+      - "Depressive Disorders"
+      - "Anxiety Disorders"
+      - "OCD & Related Disorders"
+      - "Trauma- and Stressor-Related Disorders"
+      - "Dissociative, Somatic Symptom, Feeding/Eating, Sleep-Wake, Sexual, Disruptive & Impulse-Control, Neurocognitive, Personality, Paraphilic"
+    batch_size: 250
+  - name: "Ethics & Professional Issues"
+    subdomains:
+      - "APA General Principles"
+      - "Ethical Standards 1-10"
+      - "HIPAA"
+      - "Supervision"
+    batch_size: 250
+  - name: "Research Design & Statistics"
+    subdomains:
+      - "Experimental"
+      - "Quasi"
+      - "Non-experimental"
+      - "Validity types"
+      - "Threats"
+      - "ANOVA"
+      - "Regression"
+    batch_size: 250
+  - name: "Assessment"
+    subdomains:
+      - "Testing Theory"
+      - "Diagnostic Methods"
+    batch_size: 250
+  - name: "Biological Bases of Behavior"
+    subdomains:
+      - "Neuroanatomy"
+      - "Neurophysiology"
+      - "Psychopharmacology"
+    batch_size: 250
+  - name: "Cognition & Learning"
+    subdomains:
+      - "Memory"
+      - "Learning Theories"
+      - "Motivation"
+    batch_size: 250
+  - name: "Developmental"
+    subdomains:
+      - "Growth and Lifespan Development"
+    batch_size: 250
+  - name: "Industrial/Organizational Psychology"
+    subdomains:
+      - "Personnel Selection"
+      - "Training and Development"
+      - "Organizational Behavior"
+    batch_size: 250
+  - name: "Social and Multicultural Psychology"
+    subdomains:
+      - "Group Processes"
+      - "Diversity"
+      - "Attitudes"
+    batch_size: 250
+  - name: "Treatment, Intervention, Prevention"
+    subdomains:
+      - "Therapeutic Modalities"
+      - "Intervention Strategies"
+    batch_size: 250
